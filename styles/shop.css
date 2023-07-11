@@ -1,0 +1,33 @@
+/* Banner related styles */
+
+.banner{
+    background-color:rgba(229, 84, 115, 0.10) ;
+    display: flex;
+     padding:10px  60px  60px  100px;  
+    align-items: center;
+    justify-content: center;
+
+}
+
+.banner-tittle{
+    width: 50%;
+    font-size: 50px;
+}
+.banner-paragraph{
+    width: 50%;
+}
+.btn-primary{
+    background-color:#E55473;
+    width: 25%;
+    padding: 15px;
+    border-radius: 10px;
+   
+   
+}
+.banner .banner-flower{
+    width: 35%;
+    margin: 50px;
+    /* padding: 100px; */
+    background-position: bottom  right;
+   
+}
