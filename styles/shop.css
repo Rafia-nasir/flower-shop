@@ -61,6 +61,7 @@ margin-top: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
+
   
     
   
@@ -79,12 +80,61 @@ margin-top: 100px;
 .sky-flower{
     background-color: aquamarine;
     border-radius: 20px; 
-    padding: 30px
+    padding: 20px;
 }
 
 .grey-flower{
   background-color:  rgb(36, 27, 27);
-  padding: 30px;
+  padding: 15px;
   margin-right: 20px;
   border-radius: 20px;
 }
+
+  /* second section related style */
+
+.second-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    background-color: bisque;
+}
+.btn-secondary{
+    background-color:#E55473;
+    width: 25%;
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 250px;
+   
+}
+
+/* 
+third section style
+
+ */
+.section-instragram{
+    text-align: center;
+    margin-bottom: 10px;
+      
+}
+
+.instragram-description{
+    text-align: center;
+    margin-top: 5px;
+}
+.instragram-container{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    max-width:1140px;
+    margin-left: 200px;
+    padding: 10px;
+    
+ }
+
+
+
+ 
+ .flower-margin{
+   margin-right: 20px;
+ }
